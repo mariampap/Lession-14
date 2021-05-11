@@ -1,0 +1,5 @@
+<svg id="Go_Shopping" data-name="Go Shopping" xmlns="http://www.w3.org/2000/svg" width="184.54" height="55" viewBox="0 0 184.54 55">
+  <rect id="bg" width="184.54" height="55" rx="3" fill="#32353c"/>
+  <text id="Go_Shopping_" data-name="Go Shopping " transform="translate(24.068 33.823)" fill="#fff" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.008em"><tspan x="0" y="0">Go Shopping </tspan></text>
+  <path id="ios-arrow-down" d="M94.565,165.193l4.963-4.967a.934.934,0,0,1,1.325,0,.946.946,0,0,1,0,1.329l-5.624,5.628a.936.936,0,0,1-1.294.027l-5.663-5.651a.938.938,0,0,1,1.325-1.329Z" transform="translate(-6.95 124.185) rotate(-90)" fill="#fff"/>
+</svg>

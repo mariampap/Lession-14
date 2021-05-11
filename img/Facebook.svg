@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160.5" height="35" viewBox="0 0 160.5 35">
+  <g id="Facebook" transform="translate(-695.5 -1274)">
+    <text id="Facebook-2" data-name="Facebook" transform="translate(796 1302)" fill="#32353c" font-size="26" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.021em"><tspan x="-59.776" y="0">Facebook</tspan></text>
+    <g id="facebook-3" data-name="facebook" transform="translate(145.667 177)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="15.896" height="21.888" transform="translate(557.232 1103.334)" fill="#32353c"/>
+      <path id="logo-twitter" d="M21.614,64.146a.628.628,0,0,1-.178.049.312.312,0,0,0,.137-.172.617.617,0,0,1-.2.075.31.31,0,0,0-.537.212.3.3,0,0,0,.008.071.88.88,0,0,1-.64-.325.311.311,0,0,0,.1.415.3.3,0,0,1-.141-.039v0a.311.311,0,0,0,.249.3.313.313,0,0,1-.082.011.293.293,0,0,1-.058-.006.311.311,0,0,0,.29.216.624.624,0,0,1-.46.129.868.868,0,0,0,.475.141.878.878,0,0,0,.884-.885c0-.013,0-.027,0-.04A.632.632,0,0,0,21.614,64.146Z" transform="translate(540.789 1048.417)" fill="#32353c"/>
+      <path id="logo-facebook" d="M65.394,64A1.4,1.4,0,0,0,64,65.394V87.856a1.4,1.4,0,0,0,1.394,1.394H76.625V79.255H73.607V75.573h3.018V72.851c0-3.261,2.262-5.037,5.175-5.037,1.394,0,2.893.105,3.242.151v3.406H82.721c-1.585,0-1.887.75-1.887,1.854v2.347h3.774l-.493,3.682H80.833V89.25h7.023a1.4,1.4,0,0,0,1.394-1.394V65.394Z" transform="translate(485.833 1037)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="91.135" height="91.135" viewBox="0 0 91.135 91.135">
+  <g id="Play" transform="translate(-1418 -719)">
+    <circle id="bg" cx="36.567" cy="36.567" r="36.567" transform="translate(1427 728)" fill="#fff"/>
+    <circle id="bg-2" data-name="bg" cx="45.567" cy="45.567" r="45.567" transform="translate(1418 719)" fill="#fff" opacity="0.2"/>
+    <path id="ios-play" d="M128,96.574v20.392a.525.525,0,0,0,.786.484l16.165-10.2a.578.578,0,0,0,0-.961L128.786,96.1A.52.52,0,0,0,128,96.574Z" transform="translate(1326.963 657.795)"/>
+  </g>
+</svg>

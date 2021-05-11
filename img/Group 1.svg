@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="154" height="131.567" viewBox="0 0 154 131.567">
+  <g id="Group_1" data-name="Group 1" transform="translate(-1367 -657.433)">
+    <g id="Play" transform="translate(-23.567 -61.567)">
+      <circle id="bg" cx="36.567" cy="36.567" r="36.567" transform="translate(1427 728)" fill="#fff"/>
+      <circle id="bg-2" data-name="bg" cx="45.567" cy="45.567" r="45.567" transform="translate(1418 719)" fill="#fff" opacity="0.2"/>
+      <path id="ios-play" d="M128,96.574v20.392a.525.525,0,0,0,.786.484l16.165-10.2a.578.578,0,0,0,0-.961L128.786,96.1A.52.52,0,0,0,128,96.574Z" transform="translate(1326.963 657.795)"/>
+    </g>
+    <text id="Watch_Promo" data-name="Watch Promo" transform="translate(1367 783)" fill="#fff" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Watch Promo</tspan></text>
+  </g>
+</svg>
