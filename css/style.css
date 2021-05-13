@@ -391,7 +391,7 @@ a:hover {
     text-align:left;
     font-size:18px;
     color:white;
-    margin-bottom:0;
+    margin-bottom:0; 
   }
   .right {
 	    font-family: 'Roboto', sans-serif;
