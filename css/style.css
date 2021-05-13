@@ -1,6 +1,6 @@
+
 <!--header-->
 .header {
-  font-family: 'Roboto', sans-serif;
     text-align: center;
     background: #1abc9c;
     color: white;
@@ -14,7 +14,6 @@
 }
 
 .topnav a {
-  font-family: 'Roboto', sans-serif;
   float: left;
   display: block;
   color: black;
@@ -36,7 +35,6 @@
 }
 
 .topnav input[type=text] {
-  font-family: 'Roboto', sans-serif;
    padding: 9px;
   margin-right: 1px;
   border: none;
@@ -81,7 +79,6 @@ margin-top: -9px;
     position: fixed;
 }
 .selectpicker {
-  font-family: 'Roboto', sans-serif;
     position: relative;
     background-color: rgb(228, 228, 228);
     font-size: 23px;
@@ -182,7 +179,7 @@ margin-top: -9px;
 .col_white_amrc { color:#FFF;}
 footer { width:100%; background-color:#32353C; min-height:400px; padding:0px 0px 0px 0px ;}
 .pt2 { padding-top:40px ; margin-bottom:20px ;}
-footer p { font-size:15px;color:rgb(255, 255, 255); padding-bottom:0px; margin-bottom:8px;  font-family: 'Roboto', sans-serif;}
+footer p { font-size:15px;color:rgb(255, 255, 255); padding-bottom:0px; margin-bottom:8px;}
 footer h5 {  font-family: 'Roboto', sans-serif; font-size:20px;font-weight: bold;  color:rgb(255, 255, 255); padding-bottom:0px; margin-bottom:25px;}
 .mb10 { padding-bottom:15px ;}
 .footer_ul_amrc { margin:0px ; list-style-type:none ; font-size:14px;  font-family: 'Roboto', sans-serif; padding:0px 0px 10px 0px ; }
@@ -264,7 +261,6 @@ footer h5 {  font-family: 'Roboto', sans-serif; font-size:20px;font-weight: bold
   }
   
   .menuLink {
-    font-family: 'Roboto', sans-serif;
     display: inline;
     font-size: 2rem;
     color: none;
@@ -367,7 +363,6 @@ a:hover {
 
 /* nav */
 .nav {
-  font-family: 'Roboto', sans-serif;
   background: #f3e9d9;
   color: #000000;
   cursor: pointer;
